@@ -1,9 +1,10 @@
 # Grip & Balance — Privacy Policy
 
-**Effective date:** 16 July 2026
+**Effective date:** 19 August 2026
 
-Grip & Balance is a strength and rehab training log for iPhone and iPad. It is
-designed around a simple rule: **your data never leaves your device.**
+Grip & Balance is a strength and rehab training log for iPhone, iPad and
+Apple Watch. It is designed around a simple rule: **your data never leaves
+your device.**
 
 ## What we collect
 
@@ -20,7 +21,9 @@ show the energy you burned during matching training sessions.
 
 - Health data is read on demand, displayed to you, and is not copied into the
   app's database, not stored elsewhere, and never transmitted anywhere.
-- The app never writes to Apple Health.
+- The app never writes to Apple Health, except when you use the Apple Watch
+  companion: ending a watch-tracked session saves that workout to Apple Health,
+  on your device, under your control.
 - Health data is never used for advertising, marketing, or any purpose other
   than showing it to you inside the app.
 - You can revoke access at any time in the iOS Settings app under
@@ -41,6 +44,13 @@ its database. There is nothing to delete on our side, because we hold nothing.
 Grip & Balance does not collect personal information from anyone, including
 children.
 
+## This website
+
+gripandbalance.com keeps the same promise as the app: it sets no cookies,
+runs no analytics, and makes no third-party requests. The web server keeps
+ordinary technical logs (as virtually all web servers do); nothing on this
+site identifies or profiles you.
+
 ## Changes to this policy
 
 If a future version of the app changes how data is handled, this page will be
@@ -48,4 +58,4 @@ updated before that version ships, with a new effective date.
 
 ## Contact
 
-Questions about this policy: **tertius.wessels@gmail.com**
+Questions about this policy: **hello@gripandbalance.com**

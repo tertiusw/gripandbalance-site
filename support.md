@@ -1,16 +1,19 @@
 # Grip & Balance — Support
 
-Grip & Balance is a strength and rehab training log for iPhone and iPad.
-All your data stays on your device — see the [privacy policy](privacy).
+Grip & Balance is a strength and rehab training log for iPhone, iPad and
+Apple Watch. All your data stays on your device — see the
+[privacy policy](privacy).
 
 ## Getting help
 
-Email **tertius.wessels@gmail.com** with:
+Email **hello@gripandbalance.com** with:
 
 - what you were doing,
 - what you expected,
 - what happened instead,
 - your iOS version and device model.
+
+You can also send feedback straight from the app: Settings ▸ Send feedback.
 
 ## Common questions
 
@@ -28,3 +31,8 @@ reps-only exercises intentionally get no automated advice.
 Energy comes from Apple Health workouts that overlap your session. Check that
 you granted Health access (Settings ▸ Privacy & Security ▸ Health) and that a
 workout was recorded (e.g. from Apple Watch) during the session.
+
+**Does the Apple Watch app work without the phone?**
+No — the watch is a remote for the live session on your iPhone. It shows
+what's now and next, logs sets even while the phone is locked, and talks
+only to your phone.
