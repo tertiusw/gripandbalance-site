@@ -3,10 +3,11 @@
 **Effective date:** 24 October 2026
 
 Grip & Balance is a strength and rehab training log for iPhone, iPad and
-Apple Watch. It is designed around a simple rule: **your data never leaves
-your device** — unless you export it and share it yourself, which only ever
-happens when you ask. (Tapping *Show me* on an exercise sends that built-in
-exercise's name to Google through your browser — never your data; see below.)
+Apple Watch. It is designed around a simple rule: **nothing leaves your device
+unless you share a file or tap Show me yourself.** Your training data leaves
+only when you export it and share the files, which only ever happens when you
+ask; tapping *Show me* on an exercise sends that built-in exercise's name to
+Google through your browser — never your data (see below).
 
 ## What we collect
 
